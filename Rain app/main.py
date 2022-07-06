@@ -3,7 +3,7 @@ import os
 from twilio.rest import Client
 
 account_sid = "AC06f908fe364c31a210ec2e1126488204"
-auth_token = "12d3a5fbd5cabb198ee731d672893a85"
+auth_token = "####################"
 
 API_KEY = "#######################"
 MY_LAT = -1.292066
