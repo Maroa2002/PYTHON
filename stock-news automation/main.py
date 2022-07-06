@@ -7,7 +7,7 @@ auth_token = "12d3a5fbd5cabb198ee731d672893a85"
 
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-STOCK_API_KEY = "TO0X2Y6WJQCOLRNQ"
+STOCK_API_KEY = "###############"
 stock_parameters = {
     "function": "TIME_SERIES_DAILY",
     "symbol": STOCK_NAME,
