@@ -5,7 +5,7 @@ from twilio.rest import Client
 account_sid = "AC06f908fe364c31a210ec2e1126488204"
 auth_token = "12d3a5fbd5cabb198ee731d672893a85"
 
-API_KEY = "42235cbc72a95fd96db27cbb1211879f"
+API_KEY = "#######################"
 MY_LAT = -1.292066
 MY_LONG = 36.821945
 parameters = {
